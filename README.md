@@ -28,7 +28,7 @@ Columns:
 - `Smoker` in {0, 1}  
 - `HighBP` (target) in {0, 1}
 
-> Replace the synthetic generator with your real CSV to train on actual data.
+
 
 ---
 
